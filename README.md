@@ -283,4 +283,4 @@ This project was developed with assistance from Claude (Anthropic) for code gene
 - Test case generation
 - Documentation creation
 
-**AI Chat Link**: [[Add your Claude conversation link here](https://claude.ai/chat/a9df7432-6463-4355-a373-2f39e4daedc8)]
+**AI Chat Link**: [[Claude conversation link here](https://claude.ai/chat/a9df7432-6463-4355-a373-2f39e4daedc8)]
